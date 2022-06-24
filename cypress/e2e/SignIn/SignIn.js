@@ -7,6 +7,7 @@ describe('Verify the Sign In page',function(){
         cy.visit('https://app-traxidy.thedemo.co/login/');
         signInPage.signInWithNewUser();
         //Hi I am AR Mani
+        // Hi I am Ishaq.
     })
 })
 
